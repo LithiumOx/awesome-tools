@@ -8,7 +8,7 @@ Also if you know better alternatives to any of the tools listed here, please let
 Contact information can be found on my website and/or GitHub profile.
 
 ## Table of Contents
-[MacOS Tools](./macos.md)
-[Typescript Tools](./typescript.md)
+- [MacOS Tools](./macos.md)
+- [Typescript Tools](./typescript.md)
 
 > This list is a work in progress. I'll be adding to it as I find new tools that I think are worth sharing. If you have any suggestions for tools that should be added to this list, please open an issue or a pull request.
